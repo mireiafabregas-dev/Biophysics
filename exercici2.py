@@ -46,3 +46,21 @@ for atom in selected:
 
 
 # example: python3 exercici2.py 1UBQ --resnum 42 --chain A
+
+""" 
+output example
+
+Atoms for Residue 42 (Chain A):
+Residue: ARG42 | Atom: N | Coordinates: [32.478 30.917 22.269]
+Residue: ARG42 | Atom: CA | Coordinates: [31.2   30.329 22.78 ]
+Residue: ARG42 | Atom: C | Coordinates: [30.21  30.509 21.65 ]
+Residue: ARG42 | Atom: O | Coordinates: [29.978 31.726 21.269]
+Residue: ARG42 | Atom: CB | Coordinates: [30.847 30.931 24.118]
+Residue: ARG42 | Atom: CG | Coordinates: [29.412 30.796 24.598]
+Residue: ARG42 | Atom: CD | Coordinates: [29.271 31.314 26.016]
+Residue: ARG42 | Atom: NE | Coordinates: [27.875 31.317 26.443]
+Residue: ARG42 | Atom: CZ | Coordinates: [27.132 32.423 26.574]
+Residue: ARG42 | Atom: NH1 | Coordinates: [27.63  33.656 26.461]
+Residue: ARG42 | Atom: NH2 | Coordinates: [25.81  32.299 26.732]
+
+"""
