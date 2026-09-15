@@ -58,3 +58,12 @@ else:
     print(f"Fewer than 2 Cys SG atoms found in the structure ({len(cys_sg_atoms)} found). No disulfide search performed.")
 
 # example: python3 exercici6.py 4INS --maxdist 3.0
+
+""" 
+output example
+
+Contact: 6
+at1: <Atom SG>, 464, CYS
+at2: <Atom SG>, 497, CYS
+
+"""
