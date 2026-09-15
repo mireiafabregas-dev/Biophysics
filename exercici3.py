@@ -101,4 +101,13 @@ for at1, at2 in nbsearch.search_all(MAXDIST):
     print()
     ncontact += 1
 
-# example exercici3.py 1UBQ --maxdist 3.5
+# example: python3 exercici3.py 1UBQ --maxdist 3.5
+
+""" 
+output example
+
+Contact: 430
+at1: <Atom N>, 68, THR
+at2: <Atom N>, 75, GLY
+
+"""
