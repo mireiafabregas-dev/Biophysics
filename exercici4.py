@@ -72,3 +72,13 @@ for ca_atom in selected_ca_atoms:
 
 # example1: python3 exercici4.py 1UBQ --restype A
 # example2: python3 exercici4.py 1UBQ --restype ALA
+
+""" 
+output example
+
+C-alpha atoms for residue type 'ALA':
+
+Chain: A | Residue: ALA28 | Atom: CA | Coords: [38.794, 25.761, 13.880]
+Chain: A | Residue: ALA46 | Atom: CA | Coords: [18.443, 29.143, 19.083]
+
+"""
