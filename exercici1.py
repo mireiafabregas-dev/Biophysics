@@ -56,3 +56,13 @@ for at1, at2 in nbsearch.search_all(MAXDIST):
 
 
 # example: python3 exercisi1.py 1UBQ --maxdist 8
+
+""" 
+output example
+
+Contact: 326
+at1: <Atom CA>, 341, ILE
+at2: <Atom CA>, 550, VAL
+
+"""
+
